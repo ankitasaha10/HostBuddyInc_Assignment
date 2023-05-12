@@ -1,0 +1,15 @@
+Item Management System-
+This is a simple web application that allows users to manage a list of items. The application is built using Java and Spring Boot framework. It has the following features:
+
+Add Item: Users can add new items to the list. Each item has a name and a description.
+View Items: Users can view all the items in the list.
+Search Items: Users can search for items by name.
+
+Requirements-
+To run this application, you need to have the following installed on your machine:
+
+Java 20
+Maven
+MySQL
+
+After cloning it, you can run the Apis in postman.
